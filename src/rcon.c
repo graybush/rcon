@@ -1,4 +1,6 @@
 /*
+# https://www.ryanschulze.net/archives/1052
+#
 # This is a simple linux command line utility to execute rcon commands
 # Just change the YOUR_PASSWORD_HERE to your rcon password (unless
 # you want to enter it every time) and possibly change the default
